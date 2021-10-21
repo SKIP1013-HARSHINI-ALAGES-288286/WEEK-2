@@ -1,0 +1,24 @@
+package week2;
+
+class myCampusLife {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		System.out.println("A day at my campus");
+		System.out.println("7.00 am : wake up");
+		System.out.println("7.05 am - 7.30 am : shower");
+		System.out.println("7.35 am - 8.00 am : take my breakfast");
+		System.out.println("8.00 am - 8.30 am : get ready for my class");
+		System.out.println("8.30 am - 1.30 pm : attend my classes");
+		System.out.println("1.30 pm - 2.00 pm : take my lunch");
+		System.out.println("2.00 pm - 2.30 pm : get ready for my next class");
+		System.out.println("2.30 pm - 5.30 pm : attendd my classes");
+		System.out.println("5.30 pm - 6.00 pm : do my laundry");
+		System.out.println("6.00 pm - 7.30 pm : shower");
+		System.out.println("7.30 pm - 8.30 pm : take my dinner");
+		System.out.println("8.30 pm - 11.30 pm : conduct my programming work");
+		System.out.println("11.30 pm : sleep");
+	}
+
+}
